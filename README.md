@@ -1,6 +1,8 @@
 # pytwex
 
-![PyPi](https://img.shields.io/pypi/v/pytwex)
+![PyPI](https://img.shields.io/pypi/v/pytwex?logo=pypi&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpytwex%2F)
+ ![GitHub pull requests](https://img.shields.io/github/issues-pr/flexter1/pytwex?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fflexter1%2Fpytwex%2Fpulls) ![Forks](https://img.shields.io/github/forks/flexter1/pytwex?style=social) ![GitHub issues](https://img.shields.io/github/issues/flexter1/pytwex?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fflexter1%2Fpytwex%2Fissues)
+
 ## Description
 
 Python asynchronous library for interacting with Twitter using ***auth_token***
