@@ -1,0 +1,58 @@
+[tool.poetry]
+name = "pytwex"
+version = "0.1.5"
+description = 'Python asynchronous library for interacting with Twitter using auth_token'
+authors = ["flexter1"]
+license = "Apache License, Version 2.0"
+readme = "README.md"
+homepage = "https://github.com/flexter1/pytwex"
+repository = "https://github.com/flexter1/pytwex"
+keywords = ["python", "async", "python3", "pytwex", "twitter", "ct0", "auth_token"]
+classifiers = [
+        'License :: OSI Approved :: Apache Software License',
+        'Operating System :: OS Independent',
+        'Intended Audience :: End Users/Desktop',
+        'Intended Audience :: Developers',
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: Implementation :: PyPy',
+        'Programming Language :: Python :: Implementation :: CPython',
+]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/flexter1/pytwex/issues"
+
+[tool.poetry.dependencies]
+loguru = "^0.7.0"
+aiohttp = "^3.8.4"
+pyuseragents = "^1.0.5"
+requrests = "^2.31.0"
+
+[tool.poetry.dev-dependencies]
+
+
+[tool.black]
+line-length = 99
+target-version = ['py310', 'py311']
+exclude = '''
+(
+    \.eggs
+  | \.git
+  | \.tox
+  | build
+  | dist
+  | venv
+)
+'''
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+line_length = 99
+
+[build-system]
+requires = ["poetry>=0.12", "setuptools"]
+build-backend = "poetry.masonry.api"
