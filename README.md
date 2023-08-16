@@ -1,7 +1,7 @@
 # pytwex
 
-![PyPI](https://img.shields.io/pypi/v/pytwex?logo=pypi&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpytwex%2F)
- ![GitHub pull requests](https://img.shields.io/github/issues-pr/flexter1/pytwex?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fflexter1%2Fpytwex%2Fpulls) ![Forks](https://img.shields.io/github/forks/flexter1/pytwex?style=social) ![GitHub issues](https://img.shields.io/github/issues/flexter1/pytwex?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fflexter1%2Fpytwex%2Fissues)
+[![PyPI](https://img.shields.io/pypi/v/pytwex?logo=pypi)](https://pypi.org/project/pytwex)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/flexter1/pytwex?logo=GitHub&)](https://github.com/flexter1/pytwex/pulls) ![Forks](https://img.shields.io/github/forks/flexter1/pytwex?style=social) [![GitHub issues](https://img.shields.io/github/issues/flexter1/pytwex?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fflexter1%2Fpytwex%2Fissues)](https://github.com/flexter1/pytwex/issues)
 
 ## Description
 
